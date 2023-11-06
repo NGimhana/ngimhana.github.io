@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 I am a 2nd year graduate student at department of Computer Science at William and Mary. I am broadly interested in software engineering, automatic code understandability.
+
 Resume   |   CV   |   MORE ABOUT MYSELF!
