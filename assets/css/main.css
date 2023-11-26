@@ -309,3 +309,43 @@ li > .active {
 		margin-left: 40px;
 	}
 }
+/* Define the style for the link */
+.mentor-link {
+    color: blue; /* Set the text color to blue */
+    text-decoration: none; /* Remove the underline */
+  }
+
+  /* Define the hover effect */
+  .mentor-link:hover {
+    text-decoration: underline; /* Show underline on hover */
+  }
+
+  /* Define the default style for the link */
+  .nav-link {
+    text-decoration: none; /* Remove underline by default */
+    padding-top: 5px; /* Add some top padding */
+    display: inline-block; /* Ensure the element takes only the necessary space */
+    position: relative; /* Set position for pseudo-element */
+  }
+
+  /* Create an underline pseudo-element */
+  .nav-link::after {
+    content: ''; /* Add content to pseudo-element */
+    position: absolute; /* Position the pseudo-element */
+    left: 0; /* Align to the left */
+    bottom: 0; /* Place it at the bottom */
+    width: 100%; /* Set full width */
+    height: 1px; /* Set the height of the underline */
+    background-color: transparent; /* Initially transparent */
+    transition: background-color 0.3s; /* Smooth transition for color change */
+  }
+
+  /* Define the hover effect */
+  .nav-link:hover::after {
+    background-color: black; /* Change to the desired underline color on hover */
+  }
+
+  /* Define the default style for the link */
+  .nav-item {
+	font-size: 1.20em;;
+  }
