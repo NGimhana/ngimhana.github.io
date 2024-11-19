@@ -19,4 +19,4 @@ Yang Song, Junayed Mahmud, **Nadeeshan De Silva**, Ying Zhou, Oscar Chaparro, Ke
 
 <b>Alignment-free Whole Genome Comparison Using k-mer Forests</b><br>
 Gihan Gamage; **Nadeeshan De Silva**; Anuradha Wickramarachchi; Vijini Mallawaarachchi; Indika Perera
-<i>IEEE International Conference of Advances in ICT for Emerging Regions (ICTer) 2019</i> [[pdf](https://ngimhana.github.io/files/ojoepp1.pdf) ]
+<i>IEEE International Conference of Advances in ICT for Emerging Regions (ICTer) 2019</i> [[pdf](https://ngimhana.github.io/files/ijoepp1.pdf) ]
