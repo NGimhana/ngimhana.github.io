@@ -13,7 +13,7 @@ I broadly work on applyinig {machine, deep} learning to assist developers in sof
 
 Before joining William and Mary I started working as a Software Engineer at [Enactor](https://www.enactor.com/), Sri Lanka. Then after 9th months I was promoted as Senior Software Engineer. I was part of multiple teams; core platform, automated testing and devops. 
 
-I received my Bachelor’s degree in Computer Science and Engineering from [University of Moratuwa](https://uom.lk/), Sri Lanka in 2020. I completed my thesis on “Dynamic Phylogenetic Tree Construction Using LSH and K-mers” with Dr. [Indika Perera](https://scholar.google.com/citations?user=7txwaPoAAAAJ&hl=en) and Dr. [Anuradha Wickramasinghe](https://anuradhawick.com/). As an undergraduate, I interned at [WSO2](https://wso2.com/) in Sri Lanka, where I worked on developing a proof of concept for "WSO2 Healthcare Solutions" that was later converted into a full-fledged solution.
+I received my Bachelor’s degree in Computer Science and Engineering from [University of Moratuwa](https://uom.lk/), Sri Lanka in 2020. I completed my thesis on “Dynamic Phylogenetic Tree Construction Using LSH and K-mers” with Dr. [Indika Perera](https://scholar.google.com/citations?user=7txwaPoAAAAJ&hl=en) and Dr. [Anuradha Wickramasinghe](https://anuradhawick.com/). As an undergraduate, I interned at [WSO2](https://wso2.com/) in Sri Lanka, where I worked on developing a proof of concept for "WSO2 Healthcare Solutions" under the guidance of Mr. [Nuwan Bandara](https://www.linkedin.com/in/nuwanbando/) and Mr. [Chanaka Fernando](https://lk.linkedin.com/in/chanakaudaya/).
 
 Outside work, I love spending time playing tennis, watching movies, nature walks, and trying out new recipes.
 
