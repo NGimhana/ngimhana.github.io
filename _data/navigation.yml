@@ -17,8 +17,8 @@ main:
   # - title: "Services "
   #   url: /year-archive/
     
-  - title: "Resume"
-    url: /cv/
+  - title: "Contact"
+    url: /contact/
     
   # - title: "Guide"
   #   url: /markdown/
