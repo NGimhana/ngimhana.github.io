@@ -9,7 +9,7 @@ redirect_from:
 
 
 <iframe 
-    src="http://localhost:4000/files/Nadeeshan_De_Silva_Resume.pdf" 
+    src="http://ngimhana.github.io/files/Nadeeshan_De_Silva_Resume.pdf" 
     width="100%" 
     height="600px" 
     style="border: none;">
