@@ -6,10 +6,9 @@ author_profile: true
 ---
 
 ## Graduate Research Assistant, William & Mary, USA (Sep 2022 - Present)
-* <ins>Relative Comprehensibility Prediction</ins> (March 2023 - Oct 2024)
-    * Introduced "relative comprehensibility (RC)" as a novel way of measuing code comprehensibility which is resistant to noise in the human-based understandability proxies.
-    * Designed and implemented experiments for studying the ability of ML models to learn from code features to predict RC.
-    * Work is submitted and under review.
+* <ins>Automatic Code Comprehensibility Prediction</ins> (March 2023 - present)
+    * Studying the ability of ML models to learn from code features to predict code comprehensibility.
+    * Work is ongoing.
     * Technologies & tools: Scikit-learn, Java, Python, Gradle, Pandas, Numpy, Matplotlib, Git, Latex
 
 * <ins>Bug Localization</ins> (Sep 2022 - Feb 2023)
