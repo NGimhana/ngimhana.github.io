@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Relative Code Comprehensibility Prediction</b><br>
+<!-- <b>Relative Code Comprehensibility Prediction</b><br>
 <ins>Nadeeshan De Silva</ins>, Oscar Chaparro, and Martin Kellogg<br>
-Under review
+Under review -->
 
 <b>On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization</b><br>
 Junayed Mahmud, <ins>Nadeeshan De Silva</ins>, Safwat Ali Khan, Seyed Hooman Mostafavi, S M Hasan Mansur, Oscar Chaparro, Andrian Marcus, and Kevin Moran.<br>
