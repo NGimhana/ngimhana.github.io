@@ -26,7 +26,7 @@ Outside work, I love spending time playing tennis, watching movies, nature walks
 * **February 2024** Received ACM SIGSOFT travel grant to attend ICSE'24 in Lisbon, Portugal.
 * **October 2023** Our paper titled "On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization" got accepted to International Conference on Software Engineering (ICSE'24) in the research track.
 * **July 2023** Our paper titled "BURT: A Chatbot for Interactive Bug Reporting", got accepted to International Conference on Software Engineering (ICSE'23) in the tool demo track.
-* **August 2022** Started my Ph.D in Computer Science at The College of William and Mary, Williamsburg, VA, USA.
+* **September 2022** Started my Ph.D in Computer Science at The College of William and Mary, Williamsburg, VA, USA.
 * **July 2022** Left my first job at Enactor, Sri Lanka.
 * **September 2021** Promoted as a Senior Software Engineer at Enactor, Sri Lanka.
 * **February 2020** Started working as a Software Engineer at Enactor, Sri Lanka (Engineering teams in Sri Lanka of the HQ of Enactor UK, Hertford Hertfordshire).
