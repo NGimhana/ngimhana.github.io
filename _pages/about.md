@@ -12,7 +12,7 @@ Hello there! My name is Nadeeshan De Silva (නදීෂාන් ද සිල�
 Resume: [Resume](files/Nadeeshan_De_Silva_Resume.pdf) <br>
 Unofficial Transcript: [Unofficial transcript](files/unofficial_transcript.pdf)
 
-I broadly work on applyinig {machine, deep} learning to assist developers in software engineering tasks. My doctoral research is currently focused on improving automatic code comprehension to develop more effective developer tools and improving bug report management systems.
+I broadly work on applyinig {machine, deep} learning to assist developers in software engineering tasks. My doctoral research is currently focused on improving automatic code comprehension to develop more effective developer tools and improving bug report management systems using AI techniques such as Large Language Models(LLM)s and Large Multimodal Models(LMM)s. I am also interested in software maintenance, software testing, and data analytics.
 
 Before joining William and Mary I started working as a Software Engineer at [Enactor](https://www.enactor.com/), Sri Lanka. Then after 9th months I was promoted as Senior Software Engineer. I was part of multiple teams; core platform, automated testing and devops. 
 
