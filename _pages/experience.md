@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Graduate Research Assistant, William & Mary, USA (Sep 2022 - Present)
-* <ins>Automatic Code Comprehensibility Prediction</ins> (March 2023 - present)
-    * Studying the ability of ML models to learn from code features to predict code comprehensibility.
+* <ins>Relative Code Comprehensibility Prediction</ins> (March 2023 - present)
+    * Studying how relative code comprehensibility can be used to reduce/eliminate the noise of predicting existing code comprehensibility metrics (like perceived binaray understandandability...).
     * Work is ongoing.
     * Technologies & tools: Scikit-learn, Java, Python, Gradle, Pandas, Numpy, Matplotlib, Git, Latex
 
