@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Nadeeshan De Silva (නදීෂාන් ද සිල්වා in Sinhalese script). I am a PhD candidate in the [Department of Computer Science](https://www.wm.edu/as/computerscience/) at College of William and Mary, where I am fortunate to be advised by Dr. [Oscar Chaparro](https://ojcchar.github.io/).
+Hello there! My name is Nadeeshan De Silva (නදීෂාන් ද සිල්වා in Sinhalese script). I am a Ph.D. candidate in the [Department of Computer Science](https://www.wm.edu/as/computerscience/) at William & Mary, where I am fortunate to be advised by Prof. [Oscar Chaparro](https://ojcchar.github.io/).
 
-Resume: [Resume](files/Nadeeshan_De_Silva_Resume.pdf) <br>
+Resume: [Resume](files/Nadeeshan_De_Silva_Resume_v2.pdf) <br>
 Unofficial Transcript: [Unofficial transcript](files/unofficial_transcript.pdf)
 
-I broadly work on applyinig {machine, deep} learning to assist developers in software engineering tasks. My doctoral research is currently focused on studying how relative code comprehensibility reduces the noise of existing automatic code comprehensibility proxies and improving bug report management systems using AI techniques such as Large Language Models(LLM)s and Large Multimodal Models(MLLM)s. I am also interested in software maintenance, software testing, and data analytics.
+I broadly work on applyinig {machine, deep} learning to assist developers in software engineering tasks. My doctoral research is currently focused on studying how code comprehensibility be used to improve code refactoring and improving bug report management systems using AI techniques such as Large Language Models(LLM)s and Large Multimodal Models(MLLM)s. I am also interested in software maintenance, software testing, and data analytics.
 
 Before joining William and Mary I started working as a Software Engineer at [Enactor](https://www.enactor.com/), Sri Lanka. Then after 9th months I was promoted as Senior Software Engineer. I was part of multiple teams; core platform, automated testing and devops. 
 
@@ -22,6 +22,9 @@ Outside work, I love spending time playing tennis, watching movies, nature walks
 
 ## News!
 
+
+* **Sep 2025** Our paper titled "Ladybug: A github bot for ui-enhanced bug localization in mobile apps" got accepted to IEEE International Conference on Software Maintenance and Evolution (ICSME'25) in the tool demo track.
+* **Oct 2024** Servered as a Junior Program Committee member for IEEE International Conference on Mining Software Repositories (MSR'24).
 * **March 2024** Nominated as a recipient of the International Student Oppertunity Scholarship from the College of William and Mary.
 * **February 2024** Presented our paper at ICSE'24 in Lisbon, Portugal.
 * **February 2024** Received ACM SIGSOFT travel grant to attend ICSE'24 in Lisbon, Portugal.

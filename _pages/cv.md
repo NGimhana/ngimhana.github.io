@@ -21,11 +21,9 @@ Phone: (757)-332-3331
 <br><br>
 Department of Computer Science
 <br>
-College of William and Mary
+William & Mary
 <br>
-McGlothlin-Street Hall 001
-<br>
-251 Jamestown Rd.
+Integrated Science Center-4, Room 2344
 <br>
 Williamsburg, VA 23185, USA  
 
