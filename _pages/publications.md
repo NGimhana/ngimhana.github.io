@@ -4,9 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- <b>Relative Code Comprehensibility Prediction</b><br>
-<ins>Nadeeshan De Silva</ins>, Oscar Chaparro, and Martin Kellogg<br>
-Under review -->
+<b>Relative Code Comprehensibility Prediction</b><br>
+<ins>Nadeeshan De Silva</ins>, Martin Kellogg, and Oscar Chaparro.<br>
+<i>arXiv preprint arXiv:2510.03474</i> (2025) [[pdf](https://arxiv.org/pdf/2510.03474)]
+
+<b>LadyBug: A GitHub Bot for UI-Enhanced Bug Localization in Mobile Apps</b><br>
+Y. Song, Junayed Mahmud, <ins>Nadeeshan De Silva</ins>, et al.<br>
+<i>Proceedings of the 2025 IEEE International Conference on Software Maintenance and Evolution (ICSME'25)</i>, Auckland, New Zealand, pp. 940-944 [[doi](https://doi.org/10.1109/ICSME64153.2025.00111)]
 
 <b>On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization</b><br>
 Junayed Mahmud, <ins>Nadeeshan De Silva</ins>, Safwat Ali Khan, Seyed Hooman Mostafavi, S M Hasan Mansur, Oscar Chaparro, Andrian Marcus, and Kevin Moran.<br>
