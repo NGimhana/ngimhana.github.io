@@ -9,7 +9,7 @@ redirect_from:
 
 Hello there! My name is Nadeeshan De Silva (නදීෂාන් ද සිල්වා in Sinhalese script). I am a Ph.D. candidate in the [Department of Computer Science](https://www.wm.edu/as/computerscience/) at William & Mary, where I am fortunate to be advised by Prof. [Oscar Chaparro](https://ojcchar.github.io/).
 
-Resume: [Resume](files/Nadeeshan_De_Silva_Resume_v2.pdf) <br>
+Resume: [Resume](files/Nadeeshan_De_Silva_Resume.pdf) <br>
 Unofficial Transcript: [Unofficial transcript](files/unofficial_transcript.pdf)
 
 I broadly work on applyinig {machine, deep} learning to assist developers in software engineering tasks. My doctoral research is currently focused on studying how code comprehensibility be used to improve code refactoring and improving bug report management systems using AI techniques such as Large Language Models(LLM)s and Large Multimodal Models(MLLM)s. I am also interested in software maintenance, software testing, and data analytics.
