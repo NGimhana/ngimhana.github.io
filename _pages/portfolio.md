@@ -16,7 +16,12 @@ author_profile: true
 
 ## Service
 
-* Junior Program Committee Member,Mining Software Repositories (MSR) 2024
+* Junior Program Committee Member,Mining Software Repositories (MSR) 2025
+* External Reviewer, International Conference on Software Engineering (ICSE) 2023, 2024, 2026
+* External Reviewer, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE) 2023
+* External Reviewer, International Conference on Software Maintenance and Evolution (ICSME) 2023, 2025
+* External Reviewer, International Conference on Program Comprehension (ICPC) 2025, 2026
+* External Reviewer, IEEE Software 2024
 * Student Volunteer Eastern Atlantic Students in Software Engineering Colloquium(ESSEC), William & Mary, Williamsburg, VA. Jan 2024
 * Student Volunteer The International Conference on Software Maintenance and Evolution (ICSME) Oct 2023
 * Mentor and Judge @ Cypher VIII Hackathon at William and Mary, Williamsburg, VA Oct 2022, Nov 2023	
