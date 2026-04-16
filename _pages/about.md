@@ -22,7 +22,9 @@ Outside work, I love spending time playing tennis, watching movies, nature walks
 
 ## News!
 
-
+* **April 2025** Received ACM SIGSOFT and NSF travel grants to attend ICSE'26 in Rio de Janeiro, Brazil.
+* **April 2025** Presented my PhD research at the Doctoral Symposium at the International conference on Software Engineering (ICSE'26) in Rio de Janeiro, Brazil.
+* **April 2025** Our paper titled "Verifier Warnings Do Not Improve Comprehensibility Prediction" got accepted to International Conference on Evaluation and Assessment in Software Engineering (EASE'26) in the Reproducibility and Negative Results track.
 * **Sep 2025** Our paper titled "Ladybug: A github bot for ui-enhanced bug localization in mobile apps" got accepted to IEEE International Conference on Software Maintenance and Evolution (ICSME'25) in the tool demo track.
 * **Oct 2024** Servered as a Junior Program Committee member for IEEE International Conference on Mining Software Repositories (MSR'24).
 * **March 2024** Nominated as a recipient of the International Student Oppertunity Scholarship from the College of William and Mary.

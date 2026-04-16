@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Verifier Warnings Do Not Improve Comprehensibility Prediction</b><br>
+<ins>Nadeeshan De Silva</ins>, Martin Kellogg, and Oscar Chaparro.<br>
+<i>Proceedings of the 2026 International Conference on Evaluation and Assessment in Software Engineering (EASE'26)</i>, Reproducibility and Negative Results track
+
 <b>Relative Code Comprehensibility Prediction</b><br>
 <ins>Nadeeshan De Silva</ins>, Martin Kellogg, and Oscar Chaparro.<br>
 <i>arXiv preprint arXiv:2510.03474</i> (2025) [[pdf](https://arxiv.org/pdf/2510.03474)]
