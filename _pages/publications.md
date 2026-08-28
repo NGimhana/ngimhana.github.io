@@ -8,9 +8,9 @@ author_profile: true
 <ins>Nadeeshan De Silva</ins>, Martin Kellogg, and Oscar Chaparro.<br>
 <i>Proceedings of the 2026 International Conference on Evaluation and Assessment in Software Engineering (EASE'26)</i>, Reproducibility and Negative Results track
 
-<b>Relative Code Comprehensibility Prediction</b><br>
+<b>From Absolute to Relative Code Comprehensibility Prediction</b><br>
 <ins>Nadeeshan De Silva</ins>, Martin Kellogg, and Oscar Chaparro.<br>
-<i>arXiv preprint arXiv:2510.03474</i> (2025) [[pdf](https://arxiv.org/pdf/2510.03474)]
+<i>arXiv preprint arXiv:2510.03474</i> (2025) [[pdf](https://arxiv.org/abs/2510.03474)]
 
 <b>LadyBug: A GitHub Bot for UI-Enhanced Bug Localization in Mobile Apps</b><br>
 Y. Song, Junayed Mahmud, <ins>Nadeeshan De Silva</ins>, et al.<br>
